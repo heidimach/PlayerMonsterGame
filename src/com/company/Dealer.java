@@ -14,7 +14,6 @@ public class Dealer extends Player {
 
     public String jobOfPlayer(){
         String dealer = new String("dealers");
-        System.out.println("hej");
         return dealer;
     }
 }
