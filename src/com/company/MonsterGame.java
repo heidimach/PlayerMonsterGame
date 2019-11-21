@@ -19,7 +19,7 @@ public class MonsterGame {
      * Initiating the variables
      */
     public MonsterGame() {
-        this.players.add(new Mage("Monica", 1, 10, 10));
+        this.players.add(new Mage("Monicas", 1, 10, 10));
         this.players.add(new Soldier("Jonas", 1, 10, 10));
         this.players.add(new Hawker("Legolas", 1, 10, 10));
         this.players.add(new Dealer("Rosa", 1, 10, 10));
